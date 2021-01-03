@@ -427,12 +427,11 @@ hr{
     background-color: var(--heading-background-color);
     background-repeat: no-repeat;
     background-size: 150vw;
-    background-position: -100px 70px;
     text-align: center;
 }
 
 .newsletter__img{
-    padding: 20px;
+    padding: 50px;
     width: 50vw;
     border-radius: 9000px;
     background-color: white;
