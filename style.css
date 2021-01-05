@@ -180,7 +180,6 @@ hr{
 }
 .grid__column__3{
     grid-template-columns: 1fr;
-    padding-left: 100px;
 }
 
 .grid__column__4{
