@@ -33,6 +33,7 @@ body{
 body{
     font-family: var(--heading-font-family);
     font-size: var(--heading-font-size);
+    font-weight: 500;
 }
 
 a{
@@ -53,7 +54,8 @@ li{
 }
 
 p{
-    font-weight: 400;
+    font-weight: 550;
+    color: #9CA1B0;
 }
 
 b{
@@ -178,6 +180,7 @@ hr{
 }
 .grid__column__3{
     grid-template-columns: 1fr;
+    padding-left: 100px;
 }
 
 .grid__column__4{
@@ -437,7 +440,6 @@ hr{
     background-color: white;
 }
 
-
 @media (min-width: 968px){
     .newsletter{
         padding: 5rem 0px;
@@ -454,6 +456,7 @@ hr{
     .newsletter__img__outline{
         padding: 50px;
         width: 500px;
+        margin: auto;
     }
 }
 
@@ -577,7 +580,6 @@ hr{
 }
 
 @media (min-width: 968px){
-    
     .footer__img{
         width: auto;
     }
@@ -689,5 +691,4 @@ hr{
         max-width: 600px;
     }   
 }
-
 /*© 2021 Enora Guilleux.*/
