@@ -9,14 +9,12 @@
     --heading-font-size: 1rem;
 
 /*Heading Color*/
-
     --heading-color: #5956E9;
     --heading-color2:#27282E;
     --heading-color3:#FBB8C4;
     --heading-color4:#b6b6b6;
 
 /*Heading Background*/
-
     --heading-background-color: #ECF2F6;
     --heading-background-color-2:#27282E;
     --heading-background-color-3:#F2F6F9;
@@ -42,7 +40,7 @@ a{
     color: inherit;
     text-align: center;
     font-family: var(--heading-font-family);
-    font-weight: 600;
+    font-weight: 550;
 }
 
 ul,
@@ -59,7 +57,7 @@ p{
 }
 
 b{
-    font-weight: 600;
+    font-weight: 550;
 }
 
 body{
@@ -88,6 +86,11 @@ img + img{
     margin-left: 1rem;
 }
 
+.has-purple-text{
+    color: #5956E9;
+    margin-top: -20px;
+}
+
 /* -----------------Elements------------------ */
 
 header{
@@ -105,6 +108,7 @@ h1{
     font-size: 50px;
     line-height: 1.2;
     margin: 30px 0px;
+    font-weight: 600;
 }
 
 h2{
@@ -149,14 +153,12 @@ hr{
     
     h3{
         font-size: 20px;
-    }
-    
+    }  
 }
 
 /* -----------------Objects------------------- */
 
-.container {
-    
+.container {   
     width: 85vw;
     margin: 0px auto;
 }
@@ -221,7 +223,6 @@ hr{
 /* -----------------Components---------------- */
 
 /*Bouton*/
-
 .button,
 .button__style__2{
     padding: 10px 20px;
@@ -246,7 +247,6 @@ hr{
 }
 
 /*Menu*/
-
 .menu{
     display: none;
 }
@@ -256,9 +256,14 @@ hr{
     justify-content: space-between;
 }
 
-.menu__button__co,
+.menu__button__co{
+    display: none;
+    font-weight: 500;
+}
+
 .menu__logo{
     display: none;
+    font-weight: 800;
 }
 
 @media (min-width: 968px){
@@ -279,7 +284,6 @@ hr{
 }
 
 /*Sous-menu*/
-
 .menu__hidden .menu{
     display: none;
     flex-direction: column;
@@ -294,7 +298,6 @@ hr{
 }
 
 /*Menu*/
-
 .menu__hidden:hover .menu, 
 .menu__hidden:focus .menu
 {
@@ -302,7 +305,6 @@ hr{
 }
 
 /* Hero section */
-
 .hero__banniere{
     margin-top: 0px;
     margin-bottom: -10px;
@@ -360,7 +362,6 @@ hr{
 
 
 /*Services*/
-
 .service{
     background-color: var(--heading-background-color-2);
     background-image: url(img/background-section-service.svg);
@@ -419,7 +420,6 @@ hr{
 }
 
 /*Newsletter*/
-
 .newsletter{
     margin: auto;
     padding: 5rem 0px;
@@ -458,7 +458,6 @@ hr{
 }
 
 /*Newsletter Form*/
-
 .newsletter__form{
     width: 75vw;
     padding: 0px;
@@ -497,7 +496,6 @@ hr{
 }
 
 /*FAQ*/
-
 .faq{
     padding : 5rem 0px;
     
@@ -520,7 +518,6 @@ hr{
 }
 
 /*Facts*/
-
 .fact{
     background-repeat: no-repeat;
     background-size: 200vw;
@@ -545,7 +542,6 @@ hr{
 }
 
 /*Testimonials*/
-
 .testimonials__content{
     display: none;
     left: 50px;
@@ -567,7 +563,6 @@ hr{
 }
 
 /*Footer*/
-
 .footer__img{
     margin: auto;
     padding-bottom: 30px;
@@ -667,13 +662,11 @@ hr{
 }
 
 /*Icons*/
-
 .icon__width{
     width: 50px;
 }
 
 /*Other*/
-
 .opacity-50{
     opacity: .5;
 }
@@ -694,8 +687,7 @@ hr{
 @media (min-width: 968px){
     .img__style__1{
         max-width: 600px;
-    }
-   
+    }   
 }
 
-/*© 2020 Enora Guilleux.*/
+/*© 2021 Enora Guilleux.*/

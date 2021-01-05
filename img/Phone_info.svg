@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="838" height="859" viewBox="0 0 838 859">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_198" data-name="Ellipse 198" cx="320" cy="320" r="320" transform="translate(9593 -188)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_243" data-name="Groupe 243" transform="translate(-163 -4377)">
+    <g id="Groupe_235" data-name="Groupe 235">
+      <circle id="Ellipse_196" data-name="Ellipse 196" cx="383.5" cy="383.5" r="383.5" transform="translate(234 4450)" fill="#5956e9"/>
+      <rect id="Rectangle_171" data-name="Rectangle 171" width="421" height="859" rx="30" transform="translate(406 4377)" fill="#ecf2f7"/>
+      <circle id="Ellipse_197" data-name="Ellipse 197" cx="45" cy="45" r="45" transform="translate(163 4427)" fill="#fbb8c4"/>
+      <g id="Groupe_de_masques_1" data-name="Groupe de masques 1" transform="translate(-9296 4690)" clip-path="url(#clip-path)">
+        <rect id="Rectangle_172" data-name="Rectangle 172" width="421" height="859" rx="30" transform="translate(9702 -298)" fill="#fbfcfd"/>
+      </g>
+      <rect id="Rectangle_98" data-name="Rectangle 98" width="101" height="101" rx="15" transform="translate(567 4562)" fill="#ecf2f7"/>
+      <circle id="Ellipse_199" data-name="Ellipse 199" cx="55.5" cy="55.5" r="55.5" transform="translate(562 5087)" fill="#27282e"/>
+      <text id="Lorem" transform="translate(618 5150)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-31.66" y="0">Lorem</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod." data-name="Lorem ipsum dolor sit 
+amet, consetetur 
+sadipscing elitr, sed 
+diam nonumy eirmod." transform="translate(616.5 4796)" fill="#4c4b63" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-109.84" y="0">Lorem ipsum dolor sit </tspan><tspan x="-88.12" y="30">amet, consetetur </tspan><tspan x="-101.53" y="60">sadipscing elitr, sed </tspan><tspan x="-111.1" y="90">diam nonumy eirmod.</tspan></text>
+      <g id="Groupe_188" data-name="Groupe 188" transform="translate(596.546 4592.623)">
+        <g id="Groupe_187" data-name="Groupe 187" transform="translate(0 0)">
+          <rect id="Rectangle_173" data-name="Rectangle 173" width="42" height="30" transform="translate(0.454 10.377)" fill="#5d5ae9"/>
+          <rect id="Rectangle_174" data-name="Rectangle 174" width="32" height="4" transform="translate(5.454 0.377)" fill="#fbb8c4"/>
+          <path id="play" d="M3,0l9.3,5.58L3,11.161Z" transform="translate(13.718 20)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
